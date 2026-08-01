@@ -9,3 +9,5 @@ checksums.txt
 .DS_Store
 /findphone
 *.csv
+config.bat
+node_modules
